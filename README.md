@@ -1,4 +1,4 @@
-# Hobo Search: sample application
+# Rails Tutorial: sample application
 
 This is the sample application for
-[Hobo Search: Let's bake a cake](http://localhost) by Jonny
+[Rails Tutorial: Let's bake a cake](http://localhost) by Jonny
